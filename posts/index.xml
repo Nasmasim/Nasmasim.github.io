@@ -9,12 +9,12 @@
     <copyright>Nasma Dasser</copyright>
     <lastBuildDate>Sun, 04 Apr 2021 09:00:00 +0000</lastBuildDate><atom:link href="https://nasmasim.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Algorithms - Graphs</title>
+      <title>under construction</title>
       <link>https://nasmasim.github.io/posts/2016-10-22-z/</link>
       <pubDate>Sun, 04 Apr 2021 09:00:00 +0000</pubDate>
       
       <guid>https://nasmasim.github.io/posts/2016-10-22-z/</guid>
-      <description>Undirected Graphs Some problems  Path Shortest path Cycle Ehler tour: A cycle that uses each edge excatly once. Hamilton tour: A cycle that uses each vertex exactly once  classical NP-complete problem.   Connectivity MST: Biconnectivity: A vertex whose removal disconnects the graph Planarity Graph isomorphism: Are two graphs identical?  No one knows so far. A lonstanding open problem    </description>
+      <description>under construction</description>
     </item>
     
   </channel>
